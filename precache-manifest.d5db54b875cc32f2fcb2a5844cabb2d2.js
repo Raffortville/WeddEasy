@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e6770ed992e9387cd035333573b27a9",
+    "revision": "9b7f0928568ffef514136a28bd3bef8b",
     "url": "/WeddEasy/index.html"
   },
   {
-    "revision": "73f68dcf50365a5ea652",
+    "revision": "7c61ba6ac25e19c31689",
     "url": "/WeddEasy/static/css/main.25c958e2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WeddEasy/static/js/2.41af7093.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "73f68dcf50365a5ea652",
-    "url": "/WeddEasy/static/js/main.bc05e4c9.chunk.js"
+    "revision": "7c61ba6ac25e19c31689",
+    "url": "/WeddEasy/static/js/main.0063fbfc.chunk.js"
   },
   {
     "revision": "768abfaa87623d2e8877",
