@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/WeddEasy/static/css/main.25c958e2.chunk.css",
-    "main.js": "/WeddEasy/static/js/main.c2868139.chunk.js",
-    "main.js.map": "/WeddEasy/static/js/main.c2868139.chunk.js.map",
+    "main.js": "/WeddEasy/static/js/main.a6860475.chunk.js",
+    "main.js.map": "/WeddEasy/static/js/main.a6860475.chunk.js.map",
     "runtime-main.js": "/WeddEasy/static/js/runtime-main.2fc019b6.js",
     "runtime-main.js.map": "/WeddEasy/static/js/runtime-main.2fc019b6.js.map",
-    "static/js/2.843e06a8.chunk.js": "/WeddEasy/static/js/2.843e06a8.chunk.js",
-    "static/js/2.843e06a8.chunk.js.map": "/WeddEasy/static/js/2.843e06a8.chunk.js.map",
+    "static/js/2.04a9496d.chunk.js": "/WeddEasy/static/js/2.04a9496d.chunk.js",
+    "static/js/2.04a9496d.chunk.js.map": "/WeddEasy/static/js/2.04a9496d.chunk.js.map",
     "index.html": "/WeddEasy/index.html",
-    "precache-manifest.b8bc42ed5cd8b19705712e93fb2f522f.js": "/WeddEasy/precache-manifest.b8bc42ed5cd8b19705712e93fb2f522f.js",
+    "precache-manifest.a900872b4eb4fb3b2401127e83e5e626.js": "/WeddEasy/precache-manifest.a900872b4eb4fb3b2401127e83e5e626.js",
     "service-worker.js": "/WeddEasy/service-worker.js",
     "static/css/main.25c958e2.chunk.css.map": "/WeddEasy/static/css/main.25c958e2.chunk.css.map",
-    "static/js/2.843e06a8.chunk.js.LICENSE.txt": "/WeddEasy/static/js/2.843e06a8.chunk.js.LICENSE.txt"
+    "static/js/2.04a9496d.chunk.js.LICENSE.txt": "/WeddEasy/static/js/2.04a9496d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2fc019b6.js",
-    "static/js/2.843e06a8.chunk.js",
+    "static/js/2.04a9496d.chunk.js",
     "static/css/main.25c958e2.chunk.css",
-    "static/js/main.c2868139.chunk.js"
+    "static/js/main.a6860475.chunk.js"
   ]
 }
