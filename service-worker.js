@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/WeddEasy/precache-manifest.a900872b4eb4fb3b2401127e83e5e626.js"
+  "/WeddEasy/precache-manifest.09acf095e56bbf13ce0711d46f269c2a.js"
 );
 
 self.addEventListener('message', (event) => {
