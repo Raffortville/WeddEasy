@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/WeddEasy/static/css/main.25c958e2.chunk.css",
-    "main.js": "/WeddEasy/static/js/main.96f24a54.chunk.js",
-    "main.js.map": "/WeddEasy/static/js/main.96f24a54.chunk.js.map",
+    "main.js": "/WeddEasy/static/js/main.73b9f1cd.chunk.js",
+    "main.js.map": "/WeddEasy/static/js/main.73b9f1cd.chunk.js.map",
     "runtime-main.js": "/WeddEasy/static/js/runtime-main.2fc019b6.js",
     "runtime-main.js.map": "/WeddEasy/static/js/runtime-main.2fc019b6.js.map",
     "static/js/2.fbf284cd.chunk.js": "/WeddEasy/static/js/2.fbf284cd.chunk.js",
     "static/js/2.fbf284cd.chunk.js.map": "/WeddEasy/static/js/2.fbf284cd.chunk.js.map",
     "index.html": "/WeddEasy/index.html",
-    "precache-manifest.fd600d0c6a7d9640ade23bb40e332942.js": "/WeddEasy/precache-manifest.fd600d0c6a7d9640ade23bb40e332942.js",
+    "precache-manifest.654f8333a79422c1db2a21fde6081314.js": "/WeddEasy/precache-manifest.654f8333a79422c1db2a21fde6081314.js",
     "service-worker.js": "/WeddEasy/service-worker.js",
     "static/css/main.25c958e2.chunk.css.map": "/WeddEasy/static/css/main.25c958e2.chunk.css.map",
     "static/js/2.fbf284cd.chunk.js.LICENSE.txt": "/WeddEasy/static/js/2.fbf284cd.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2fc019b6.js",
     "static/js/2.fbf284cd.chunk.js",
     "static/css/main.25c958e2.chunk.css",
-    "static/js/main.96f24a54.chunk.js"
+    "static/js/main.73b9f1cd.chunk.js"
   ]
 }
